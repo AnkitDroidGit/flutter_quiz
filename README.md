@@ -1,6 +1,7 @@
 # flutter_quiz
 
-A new Flutter application.
+Flutter application project with [Trivia API](https://opentdb.com/browse.php) as backend.
+
 
 ## Getting Started
 
